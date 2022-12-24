@@ -7,5 +7,5 @@ https://www.linkedin.com/feed/
 
 
 Languages and Tools:
-html5  , css3  , javascript , php  , laravel , bootstrap , vuejs
+html5  , css3  , javascript , php  , laravel , bootstrap , vuejs ,
 git , postman , mysql
