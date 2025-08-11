@@ -1,13 +1,16 @@
-- 👋 Hi, I’m Ahmed Mahfouz 
-- 👀 I’m interested in Backend Engineer
-- 📫 How to reach me **info@ahmedmahfouz.tech**
+# Hi, I’m Ahmed Mahfouz 👋
 
-**Connect with me:**
-https://www.linkedin.com/in/ahmed-mahfouz-aa656321a/
+**Backend Engineer (PHP/Laravel)** focused on scalable APIs, clean architecture, and high-traffic databases.
 
-** my website:**
-https://ahmedmahfouz.tech/
+- 🔭 Building ERP/HR/e-commerce systems end-to-end  
+- ⚙️ RESTful APIs · Queues/Jobs · MySQL/PostgreSQL  
+- 🌱 Currently learning **.NET Core**
 
-Languages and Tools:
-html5  , css3  , javascript , php  , laravel , bootstrap , vuejs ,
-MySql , Postgresql , Restful APIS , Swagger , postman , docker
+**Reach me:**  
+📧 info@ahmedmahfouz.tech · 🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-mahfouz-aa656321a/) · 🌐 [ahmedmahfouz.tech](https://ahmedmahfouz.tech/)
+
+---
+
+### Languages & Tools
+`HTML5` · `CSS3` · `JavaScript` · `PHP` · `Laravel` · `Bootstrap` · `Vue.js` ·  
+`MySQL` · `PostgreSQL` · `RESTful APIs` · `Swagger / OpenAPI` · `Postman` · `Docker`
