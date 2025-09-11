@@ -4,7 +4,7 @@
 
 - 🔭 Building ERP/HR/e-commerce systems end-to-end  
 - ⚙️ RESTful APIs · Queues/Jobs · MySQL/PostgreSQL  
-- 🌱 Currently learning **.NET Core**
+- 🌱 NodeJs , Nest Js
 
 **Reach me:**  
 📧 info@ahmedmahfouz.tech · 🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-mahfouz-aa656321a/) · 🌐 [ahmedmahfouz.tech](https://ahmedmahfouz.tech/)
