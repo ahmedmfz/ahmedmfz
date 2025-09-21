@@ -4,7 +4,6 @@
 
 - 🔭 Building ERP/HR/e-commerce systems end-to-end  
 - ⚙️ RESTful APIs · Queues/Jobs · MySQL/PostgreSQL  
-- 🌱 NodeJs , Nest Js
 
 **Reach me:**  
 📧 info@ahmedmahfouz.tech · 🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-mahfouz-aa656321a/) · 🌐 [ahmedmahfouz.tech](https://ahmedmahfouz.tech/)
@@ -13,4 +12,4 @@
 
 ### Languages & Tools
 `HTML5` · `CSS3` · `JavaScript` · `PHP` · `Laravel` · `Bootstrap` · `Vue.js` ·  
-`MySQL` · `PostgreSQL` · `RESTful APIs` · `Swagger / OpenAPI` · `Postman` · `Docker`
+`MySQL` · `PostgreSQL` · `RESTful APIs` · `Swagger / OpenAPI` · `Postman` · `Docker` . `NodeJs` . 'NestJs'
