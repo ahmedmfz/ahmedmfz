@@ -12,4 +12,4 @@
 
 ### Languages & Tools
 `HTML5` · `CSS3` · `JavaScript` · `PHP` · `Laravel` · `Bootstrap` · `React.js` ·  
-`MySQL` · `PostgreSQL` · `RESTful APIs` · `Swagger / OpenAPI` · `Postman` · `Docker` . `NodeJs` . 'NestJs'
+`MySQL` · `PostgreSQL` · `RESTful APIs` · `Swagger / OpenAPI` · `Postman` · `Docker` . `NodeJs` . `NestJs`
