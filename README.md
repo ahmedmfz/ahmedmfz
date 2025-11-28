@@ -11,5 +11,5 @@
 ---
 
 ### Languages & Tools
-`HTML5` · `CSS3` · `JavaScript` · `PHP` · `Laravel` · `Bootstrap` · `Vue.js` ·  
+`HTML5` · `CSS3` · `JavaScript` · `PHP` · `Laravel` · `Bootstrap` · `React.js` ·  
 `MySQL` · `PostgreSQL` · `RESTful APIs` · `Swagger / OpenAPI` · `Postman` · `Docker` . `NodeJs` . 'NestJs'
