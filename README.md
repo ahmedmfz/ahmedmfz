@@ -1,6 +1,6 @@
 # Hi, I’m Ahmed Mahfouz 👋
 
-**Backend Engineer** focused on scalable APIs, clean architecture, and high-traffic databases.
+**Full Stack Engineer** focused on scalable APIs, clean architecture, and high-traffic databases.
 
 - 🔭 Building ERP/HR/e-commerce systems end-to-end  
 - ⚙️ RESTful APIs · Queues/Jobs · MySQL/PostgreSQL  
